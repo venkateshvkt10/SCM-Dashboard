@@ -90,12 +90,14 @@ Cost Variance
 
 Explore dashboards Image (Direct Link):
 
-SCM Dashboard KPI     : (https://github.com/venkateshvkt10/SCM-Dashboard/blob/main/SCM_Dashboard_KPI.png)
-Sales Analysis        : (https://github.com/venkateshvkt10/SCM-Dashboard/blob/main/Sales_Analysis.png)
-Inventory Management  : (https://github.com/venkateshvkt10/SCM-Dashboard/blob/main/Inventory_Analysis.png)  
-Procurement Analytics : (https://github.com/venkateshvkt10/SCM-Dashboard/blob/main/Procurement_Analysis.png)
-Shipment Analysis     : (https://github.com/venkateshvkt10/SCM-Dashboard/blob/main/Shipment_Analysis.png)
-Employee Details      : (https://github.com/venkateshvkt10/SCM-Dashboard/blob/main/Employee_Analysis.png) 
-Summary Key           : (https://github.com/venkateshvkt10/SCM-Dashboard/blob/main/Key_Summary.png)
+* SCM Dashboard KPI     : (https://github.com/venkateshvkt10/SCM-Dashboard/blob/main/SCM_Dashboard_KPI.png)
+* Sales Analysis        : (https://github.com/venkateshvkt10/SCM-Dashboard/blob/main/Sales_Analysis.png)
+* Inventory Management  : (https://github.com/venkateshvkt10/SCM-Dashboard/blob/main/Inventory_Analysis.png)  
+* Procurement Analytics : (https://github.com/venkateshvkt10/SCM-Dashboard/blob/main/Procurement_Analysis.png)
+* Shipment Analysis     : (https://github.com/venkateshvkt10/SCM-Dashboard/blob/main/Shipment_Analysis.png)
+* Employee Details      : (https://github.com/venkateshvkt10/SCM-Dashboard/blob/main/Employee_Analysis.png) 
+* Summary Key           : (https://github.com/venkateshvkt10/SCM-Dashboard/blob/main/Key_Summary.png)
+
+  *******************************************End******************************************
 
 Thanks For your valuable time :-)
