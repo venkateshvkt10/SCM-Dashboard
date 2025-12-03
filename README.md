@@ -89,6 +89,7 @@ Cost Variance
 * For Reference check all the PNG file along 
 
 Explore dashboards Image (Direct Link):
+
 SCM Dashboard KPI     : (https://github.com/venkateshvkt10/SCM-Dashboard/blob/main/SCM_Dashboard_KPI.png)
 Sales Analysis        : (https://github.com/venkateshvkt10/SCM-Dashboard/blob/main/Sales_Analysis.png)
 Inventory Management  : (https://github.com/venkateshvkt10/SCM-Dashboard/blob/main/Inventory_Analysis.png)  
