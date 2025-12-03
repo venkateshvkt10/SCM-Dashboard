@@ -2,6 +2,7 @@
 SCM Analytics Power BI Dashboard End-to-End Supply Chain Management Reporting Solution
 
 This project is a complete Supply Chain Management (SCM) dashboard built using Power BI, covering:
+SCM Dashboard KPI
 
 Sales Analysis
 
@@ -87,4 +88,13 @@ Cost Variance
 * Refresh data sources
 * For Reference check all the PNG file along 
 
-Explore dashboards
+Explore dashboards Image (Direct Link):
+SCM Dashboard KPI     : (https://github.com/venkateshvkt10/SCM-Dashboard/blob/main/SCM_Dashboard_KPI.png)
+Sales Analysis        : (https://github.com/venkateshvkt10/SCM-Dashboard/blob/main/Sales_Analysis.png)
+Inventory Management  : (https://github.com/venkateshvkt10/SCM-Dashboard/blob/main/Inventory_Analysis.png)  
+Procurement Analytics : (https://github.com/venkateshvkt10/SCM-Dashboard/blob/main/Procurement_Analysis.png)
+Shipment Analysis     : (https://github.com/venkateshvkt10/SCM-Dashboard/blob/main/Shipment_Analysis.png)
+Employee Details      
+Summary Key           : (https://github.com/venkateshvkt10/SCM-Dashboard/blob/main/Key_Summary.png)
+
+Thanks For your valuable time :-)
