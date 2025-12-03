@@ -94,7 +94,7 @@ Sales Analysis        : (https://github.com/venkateshvkt10/SCM-Dashboard/blob/ma
 Inventory Management  : (https://github.com/venkateshvkt10/SCM-Dashboard/blob/main/Inventory_Analysis.png)  
 Procurement Analytics : (https://github.com/venkateshvkt10/SCM-Dashboard/blob/main/Procurement_Analysis.png)
 Shipment Analysis     : (https://github.com/venkateshvkt10/SCM-Dashboard/blob/main/Shipment_Analysis.png)
-Employee Details      
+Employee Details      : (https://github.com/venkateshvkt10/SCM-Dashboard/blob/main/Employee_Analysis.png) 
 Summary Key           : (https://github.com/venkateshvkt10/SCM-Dashboard/blob/main/Key_Summary.png)
 
 Thanks For your valuable time :-)
